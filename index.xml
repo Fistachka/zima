@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="zima2"/>
   <readme>
-    <ru>82e38075e972a94c0aaf88c36301919a3394d1542fb6df07ea8a2c946ef93229</ru>
+    <ru>27bf8ca9b50225b2021a7feec2290665cb7e9430814399ef413e5904150e5a4f</ru>
     <en>7520dab4c30742671c7f72a11dbb394914ef19c16b90251f7541035627bb6870</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
