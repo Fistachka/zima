@@ -40,4 +40,6 @@ YA lyublyu vsyo sil'nee
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/041e40fa-0e43-4755-9642-311485511c4e =200x200)
 stolbitsa.com/fistachka/fantazer4<br><br>
+![з1](https://github.com/user-attachments/assets/0d566f66-3780-4248-8238-c5920d25afdb)
+![з2](https://github.com/user-attachments/assets/9d794444-49ac-417a-8d1c-b4247efc647c)
 
