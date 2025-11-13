@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="Fistachka" repo="zima2"/>
   <readme>
     <ru>82e38075e972a94c0aaf88c36301919a3394d1542fb6df07ea8a2c946ef93229</ru>
@@ -20,6 +20,10 @@
       <note number="1" values="18" ticks="1482" durationTicks="95" ppq="96" velocity="0.78"/>
       <note number="2" values="38" ticks="1576" durationTicks="45" ppq="96" velocity="0.772"/>
       <note number="3" values="4" ticks="1626" durationTicks="96" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="288" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="5" values="4" ticks="384" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="6" values="4" ticks="480" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="7" values="4" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -50,6 +54,10 @@
       <note number="1" values="18" ticks="70" durationTicks="95" ppq="96" velocity="0.78"/>
       <note number="2" values="38" ticks="164" durationTicks="45" ppq="96" velocity="0.772"/>
       <note number="3" values="4" ticks="214" durationTicks="96" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="288" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="5" values="4" ticks="384" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="6" values="4" ticks="480" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="7" values="4" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -67,7 +75,6 @@
       <note number="5" values="28" ticks="285" durationTicks="28" ppq="96" velocity="0.772"/>
       <note number="6" values="38" ticks="332" durationTicks="42" ppq="96" velocity="0.819"/>
       <note number="7" values="28" ticks="382" durationTicks="92" ppq="96" velocity="0.819"/>
-      <note number="8" values="18" ticks="477" durationTicks="186" ppq="96" velocity="0.8"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -81,6 +88,10 @@
       <note number="1" values="18" ticks="86" durationTicks="95" ppq="96" velocity="0.78"/>
       <note number="2" values="38" ticks="180" durationTicks="45" ppq="96" velocity="0.772"/>
       <note number="3" values="4" ticks="230" durationTicks="96" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="288" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="5" values="4" ticks="384" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="6" values="4" ticks="480" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="7" values="4" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -97,7 +108,6 @@
       <note number="4" values="48" ticks="318" durationTicks="31" ppq="96" velocity="0.772"/>
       <note number="5" values="48" ticks="382" durationTicks="29" ppq="96" velocity="0.772"/>
       <note number="6" values="48" ticks="431" durationTicks="109" ppq="96" velocity="0.819"/>
-      <note number="7" values="38" ticks="588" durationTicks="169" ppq="96" velocity="0.787"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -111,6 +121,10 @@
       <note number="1" values="18" ticks="58" durationTicks="95" ppq="96" velocity="0.78"/>
       <note number="2" values="38" ticks="154" durationTicks="45" ppq="96" velocity="0.772"/>
       <note number="3" values="4" ticks="204" durationTicks="96" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="288" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="5" values="4" ticks="384" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="6" values="4" ticks="480" durationTicks="95" ppq="96" velocity="0.827"/>
+      <note number="7" values="4" ticks="576" durationTicks="95" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="8">
