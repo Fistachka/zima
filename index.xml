@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zima</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="Fistachka" repo="zima2"/>
   <readme>
-    <ru>27bf8ca9b50225b2021a7feec2290665cb7e9430814399ef413e5904150e5a4f</ru>
-    <en>7520dab4c30742671c7f72a11dbb394914ef19c16b90251f7541035627bb6870</en>
+    <ru>19eac515055c1b05e400f755f000483b28f8a7539929f8de4197071642c488e7</ru>
+    <en>40f26069aa992801f783cb576df21699fe158c6a1b3a07d071473624e2d71e8b</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -15,7 +15,7 @@
     <bpm>140</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>8</tonalities>
-    <video name="1t.mp4" size="1826743" type="video/mp4" volume="0.5">7c2700e24bc1233252e20105d2f96e9981b4ff41428178bc19354e9f89f932c6</video>
+    <video name="1t.mp4" size="1826743" type="video/mp4" volume="0.5">f45fff0b26f76cb829b15dab6a239dc85c66cd70c630a5674215520cef88e22a</video>
     <notes>
       <note number="1" values="5" ticks="775" durationTicks="35" ppq="96" velocity="0.71"/>
       <note number="2" values="5" ticks="822" durationTicks="68" ppq="96" velocity="0.778"/>
