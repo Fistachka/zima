@@ -4,7 +4,7 @@
 ![з2](https://github.com/user-attachments/assets/9d794444-49ac-417a-8d1c-b4247efc647c)
 
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/idIQIBY-iSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/EMOkF_030ME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 У леса на опушке
@@ -25,7 +25,7 @@ stolbitsa.com/fistachka/fantazer5<br><br>
 “Zima” ("Potolok ledyanoj) Eduard Hil' 1970g.  1 st verse
 ![з2](https://github.com/user-attachments/assets/9d794444-49ac-417a-8d1c-b4247efc647c)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/E_QANMn_H9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/BGLpuWf_c0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 U lesa na opushke
