@@ -5,7 +5,7 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/EMOkF_030ME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8e3X2zmY1-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 У леса на опушке
 Жила зима в избушке...
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/fantazer5<br><br>
 ![з2](https://github.com/user-attachments/assets/9d794444-49ac-417a-8d1c-b4247efc647c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/BGLpuWf_c0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed//KREb0Tfq-nY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 U lesa na opushke
 ZHila zima v izbushke...
